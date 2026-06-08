@@ -1,16 +1,72 @@
+# Career Objective
+
+## Primary Goal
+
+Become employable as a Software Engineer in New Zealand.
+
+## Long-Term Goal
+
+Build the foundations required to specialize in Artificial Intelligence Engineering and AI Agents.
+
+## Target Academic Pathway
+
+Master of Information Technology (MInfoTech)
+
+Joint programme:
+- University of Waikato
+- University of Auckland
+
+## Alternative Academic Pathways
+
+- Graduate Diploma in Applied IT (Wintec)
+- Industry Certifications
+- Self-Directed Study
+
+
 ## Mission
 
-Prepare for the Graduate Diploma in Applied Information Technology by building the prerequisite knowledge, practical skills, and portfolio projects required to:
+Develop the knowledge, practical skills, and portfolio projects required to:
 
-- Succeed academically in the diploma
-    
+- Succeed academically in the Master of Information Technology (MInfoTech)
 - Become employable as a Software Engineer
-    
 - Build strong foundations for future AI Engineering studies
     
 
 ---
 
+## Guiding Principle
+
+This curriculum is organized around competencies rather than qualifications.
+
+Qualifications may change over time.
+
+Core competencies remain valuable regardless of the education provider.
+
+Examples include:
+
+- Programming
+- Software Engineering
+- Databases
+- Web Development
+- Testing
+- Data Analytics
+- AI Foundations
+
+---
+
+## Repository Scope
+
+This repository serves as:
+
+- A curriculum map
+- A software engineering learning roadmap
+- A portfolio planning system
+- A study companion for the MInfoTech pathway
+- A knowledge base for future AI studies
+
+The objective is not only academic success, but also the development of practical software engineering skills and industry readiness.
+
+---
 # Domains
 
 ## 1. Foundations
@@ -53,7 +109,7 @@ Build the fundamental computer knowledge required for all later domains.
 
 Learn how to design, write, debug, and maintain software.
 
-### Related Modules
+### Relevant Academic Modules
 
 - COMP502
     
@@ -111,7 +167,7 @@ Learn professional software development practices.
 
 Store, retrieve, and manage data efficiently.
 
-### Related Modules
+### Relevant Academic Modules
 
 - INFO503
     
@@ -137,7 +193,7 @@ Store, retrieve, and manage data efficiently.
 
 Build modern web applications.
 
-### Related Modules
+### Relevant Academic Modules
 
 - COMP602
     
@@ -165,7 +221,7 @@ Build modern web applications.
 
 Ensure software quality and reliability.
 
-### Related Modules
+### Relevant Academic Modules
 
 - COMP707
     
@@ -187,7 +243,7 @@ Ensure software quality and reliability.
 
 Understand computer communications and infrastructure.
 
-### Related Modules
+### Relevant Academic Modules
 
 - COMP608
     
@@ -213,7 +269,7 @@ Understand computer communications and infrastructure.
 
 Learn security fundamentals for modern software systems.
 
-### Related Modules
+### Relevant Academic Modules
 
 - INFO702
     
@@ -235,7 +291,7 @@ Learn security fundamentals for modern software systems.
 
 Understand data processing and analysis.
 
-### Related Modules
+### Relevant Academic Modules
 
 - INFO703
     
@@ -259,7 +315,7 @@ Understand data processing and analysis.
 
 Build the mathematical foundations for algorithms, analytics, and AI.
 
-### Related Modules
+### Relevant Academic Modules
 
 - MATH601
     
@@ -281,7 +337,7 @@ Build the mathematical foundations for algorithms, analytics, and AI.
 
 Develop workplace and business skills.
 
-### Related Modules
+### Relevant Academic Modules
 
 - BIZM701
     
@@ -327,3 +383,34 @@ Prepare for future AI Engineering studies.
 - AI assistant project
     
 - Agent-based system
+
+---
+
+## 13. Professional Engineering Skills
+
+### Purpose
+
+Develop industry-ready engineering practices.
+
+### Future Topics
+
+- Git
+- GitHub
+- Agile
+- Scrum
+- Documentation
+- Code Reviews
+- Docker
+- CI/CD
+- Linux Administration
+- DevOps Fundamentals
+- Cloud Fundamentals
+- System Design
+
+### Evidence of Competence
+
+- Professional Git history
+- Documented projects
+- CI/CD pipelines
+- Dockerized applications
+- Architecture diagrams
