@@ -20,10 +20,24 @@ Status: In Progress
 ✓ Variables & Data Types
 ✓ Operators & Expressions
 ✓ Conditional Logic
-✓ Loops (For Loops)
-□ Loops (While Loops)
-□ Functions
-□ Arrays
+✓ Loops
+✓ Functions
+▶ Arrays (In Progress)
+    ✓ Array creation
+    ✓ Indexes
+    ✓ Length
+    ✓ Accessing elements
+    ✓ Arrays + loops
+    ✓ Processing collections
+    ✓ Combining concepts
+    ✓ Searching
+    ✓ includes()
+    ✓ indexOf()
+    ✓ push()
+    ✓ State updates
+    ✓ Functions + Arrays
+    ✓ Real business modeling
+□ Modifying arrays
 □ Problem Solving
 □ Final Project
 
@@ -138,3 +152,42 @@ Evidence:
 
 - Mini_Challenge_6.js
 - Mini_Challenge_7.js
+
+---
+
+## Loops (While Loops)
+
+Status: Completed ✓
+
+Concepts Demonstrated:
+
+- while loops
+- Loop conditions
+- State variables
+- Exit conditions
+- Infinite loop prevention
+- State transitions
+- Business process modeling
+
+Evidence:
+
+- Mini_Challenge_8.js
+- Mini_Challenge_9.js
+
+---
+
+## Functions (Part 1)
+
+Status: In Progress
+
+Concepts Demonstrated:
+
+- Function declaration
+- Function invocation
+- Reusable behavior
+- Code organization
+- Avoiding duplication (DRY)
+
+Evidence:
+
+- Mini_Challenge_10.js
